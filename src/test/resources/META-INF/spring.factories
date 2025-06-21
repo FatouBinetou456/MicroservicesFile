@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = \
+    sn.uam.polytech.misid.config.\
+    SqlTestContainersSpringContextCustomizerFactory,sn.uam.polytech.misid.\
+    config.TestContainersSpringContextCustomizerFactory
