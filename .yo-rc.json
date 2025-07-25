@@ -13,6 +13,7 @@
     "devDatabaseType": "h2Disk",
     "enableHibernateCache": null,
     "enableTranslation": true,
+    "enableSwaggerCodegen": true,
     "entities": [],
     "feignClient": null,
     "jhipsterVersion": "8.11.0",
